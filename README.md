@@ -28,6 +28,8 @@ You can check out  [Hooke’s law](https://phet.colorado.edu/pt/simulation/hooke
 
 Finally, I have a series of posts on [Instagram](https://www.instagram.com/shinossaura/guide/quantum-computing/17894358713238382/?utm_source=ig_embed&ig_rid=10567a83-a6a7-40a1-a6b4-8c1db3bf5b6f) about Quantum Physics and Quantum Computing :)
 
+Some more content [here](https://www.youtube.com/playlist?list=PLGbyiZHEvhHUN_TPikMb5Kcdj1TFWtT_A).
+
 <img src="https://i.imgur.com/FDtsVRN.gif" width="70%" height="70%"/>
 (gif credits: /www.artstation.com/moavg)
 

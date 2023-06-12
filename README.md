@@ -1,10 +1,12 @@
-Hi, you are stalking Bruna Shinohara (she/her)! A bit about me:
+Hi, you are stalking Bruna Shinohara (she/her)! I am a Staff Scientist in the Quantum Technologies divsion at CMC Microsystems.
+
+A bit more about me:
 
 # :tornado: Research
 
-I am a theoretical Physics Ph.D. candidate at the University of São Paulo, and I have also spent a period as guest research at the Center for Quantum Devices (QDev - University of Copenhagen). My research is focused on the theoretical physics of topological materials and their ability of supporting robust quantum computation.
+I just finished my Physics Ph.D. candidate at the University of São Paulo, and I have also spent a period as guest research at the Center for Quantum Devices (QDev - University of Copenhagen). My research is focused on the theoretical physics of topological materials and their ability of supporting robust quantum computation.
 
-Take a look at our new article,["Can Caroli-de Gennes-Matricon and Majorana vortex states be distinguished in the presence of impurities?"](https://arxiv.org/abs/2204.05078). Me and my collaborators, Dr. Antonio Manesco, Dr. Luis Gregório Dias da Silva and Dr. Nancy Sandler, explored how impurities can create  false-positives when attempting to detect Majoranas with STS 
+Take a look at our new article,["Can Caroli-de Gennes-Matricon and Majorana vortex states be distinguished in the presence of impurities?"](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.184509). Me and my collaborators, Dr. Antonio Manesco, Dr. Luis Gregório Dias da Silva and Dr. Nancy Sandler, explored how impurities can create  false-positives when attempting to detect Majoranas with STS 
 measurements.
 
 + [Link](https://lnkd.in/dNnar6Us) to a nice and more detaild twitter thread about it.

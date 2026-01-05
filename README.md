@@ -18,7 +18,7 @@ I am a big fan of Python! I have the IBM Certification of Associate Developer - 
 
 ![](https://github-readme-stats.vercel.app/api?username=smendoncabruna&show_icons=true&theme=onedark)
 
-# :speech_balloon:  Sciccom
+# :speech_balloon:  Scicomm
 
 Most of my scientific outreach content is in Portuguese, as less than 5% of the Brazilian population speaks a second language, and it is hard to find content about quantum physics in Portuguese. Some of my efforts in this sense can be found on my [Quora](https://pt.quora.com/profile/Bruna-Shinohara) webpage.
 
@@ -31,6 +31,13 @@ You can check out  [Hooke’s law](https://phet.colorado.edu/pt/simulation/hooke
 Finally, I have a series of posts on [Instagram](https://www.instagram.com/shinossaura/guide/quantum-computing/17894358713238382/?utm_source=ig_embed&ig_rid=10567a83-a6a7-40a1-a6b4-8c1db3bf5b6f) about Quantum Physics and Quantum Computing :)
 
 Some more content [here](https://www.youtube.com/playlist?list=PLGbyiZHEvhHUN_TPikMb5Kcdj1TFWtT_A).
+
+# :microscope:  Tech and Society
+
+I am also involved in public discourseon the ethical aspects of quantum technologies. I was invited to speak about such topics in the
+United States, Netherlands, Brazil and South Korea. 
+
+Recently, I published an invited paper alongside Dr. Raymond Laflamme on Responsible Quantum Technologies in Canada and worldwide - [check it out!](https://arxiv.org/abs/2507.05192)
 
 <img src="https://i.imgur.com/FDtsVRN.gif" width="70%" height="70%"/>
 (gif credits: /www.artstation.com/moavg)

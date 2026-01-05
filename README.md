@@ -2,6 +2,16 @@ Hi, you are stalking Bruna Shinohara (she/her)! I am a Staff Scientist in the Qu
 
 A bit more about me:
 
+# :computer: Staff Scientist, Quantum
+
+I currently work as a Staff Scientist in Quantum Technologies at CMC Microsystems (Canada).
+In my day to day work, I support industry and academic partners coming from different levels of contact with quantum computing. This encompasses helping with development of quantum
+algorithms for different applications, providing access to quantum computers, estimating computational resources and adding error mitigation and suppression techniques. I have worked with different software development kits such as Qiskit, Pennylane/Strawberry Fields, Pulser and Bloqade and across different areas of applications,
+such as healthcare, logistics, agriculture and arithmetic.
+
+Another component of my work as Staff Scientist involves the development and delivery of training in quantum technologies, ranging from undergraduate and graduate-level to
+non-technical audiences. I helped organize several workshops and hackathons on quantum algorithm tools and techniques.
+
 # :tornado: Research
 
 I have a Ph.D. in Physics from the University of São Paulo (Brazil), and I have also spent a period as guest research at the Center for Quantum Devices (QDev - University of Copenhagen, Denmark). My research focuseded on the theoretical physics of topological materials and their ability of supporting robust quantum computation.
@@ -16,7 +26,12 @@ measurements.
 
 I am a big fan of Python! I have the IBM Certification of Associate Developer - Quantum Computation using Qiskit v0.2X and participate in Quantum Hackathons. I have content on Qiskit and Pennylane.
 
-![](https://github-readme-stats.vercel.app/api?username=smendoncabruna&show_icons=true&theme=onedark)
+# :microscope:  Tech and Society
+
+I am also involved in public discourseon the ethical aspects of quantum technologies. I was invited to speak about such topics in the
+United States, Netherlands, Brazil and South Korea. 
+
+Recently, I published an invited paper alongside Dr. Raymond Laflamme on Responsible Quantum Technologies in Canada and worldwide - [check it out!](https://arxiv.org/abs/2507.05192)
 
 # :speech_balloon:  Scicomm
 
@@ -31,13 +46,6 @@ You can check out  [Hooke’s law](https://phet.colorado.edu/pt/simulation/hooke
 Finally, I have a series of posts on [Instagram](https://www.instagram.com/shinossaura/guide/quantum-computing/17894358713238382/?utm_source=ig_embed&ig_rid=10567a83-a6a7-40a1-a6b4-8c1db3bf5b6f) about Quantum Physics and Quantum Computing :)
 
 Some more content [here](https://www.youtube.com/playlist?list=PLGbyiZHEvhHUN_TPikMb5Kcdj1TFWtT_A).
-
-# :microscope:  Tech and Society
-
-I am also involved in public discourseon the ethical aspects of quantum technologies. I was invited to speak about such topics in the
-United States, Netherlands, Brazil and South Korea. 
-
-Recently, I published an invited paper alongside Dr. Raymond Laflamme on Responsible Quantum Technologies in Canada and worldwide - [check it out!](https://arxiv.org/abs/2507.05192)
 
 <img src="https://i.imgur.com/FDtsVRN.gif" width="70%" height="70%"/>
 (gif credits: /www.artstation.com/moavg)

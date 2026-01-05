@@ -1,12 +1,12 @@
-Hi, you are stalking Bruna Shinohara (she/her)! I am a Staff Scientist in the Quantum Technologies divsion at CMC Microsystems.
+Hi, you are stalking Bruna Shinohara (she/her)! I am a Staff Scientist in the Quantum Technologies division at CMC Microsystems.
 
 A bit more about me:
 
 # :tornado: Research
 
-I just finished my Physics Ph.D. candidate at the University of São Paulo, and I have also spent a period as guest research at the Center for Quantum Devices (QDev - University of Copenhagen). My research is focused on the theoretical physics of topological materials and their ability of supporting robust quantum computation.
+I have a Ph.D. in Physics from the University of São Paulo (Brazil), and I have also spent a period as guest research at the Center for Quantum Devices (QDev - University of Copenhagen, Denmark). My research focuseded on the theoretical physics of topological materials and their ability of supporting robust quantum computation.
 
-Take a look at our new article,["Can Caroli-de Gennes-Matricon and Majorana vortex states be distinguished in the presence of impurities?"](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.184509). Me and my collaborators, Dr. Antonio Manesco, Dr. Luis Gregório Dias da Silva and Dr. Nancy Sandler, explored how impurities can create  false-positives when attempting to detect Majoranas with STS 
+Take a look at our paper, ["Can Caroli-de Gennes-Matricon and Majorana vortex states be distinguished in the presence of impurities?"](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.107.184509). Me and my collaborators, Dr. Antonio Manesco, Dr. Luis Gregório Dias da Silva and Dr. Nancy Sandler, explored how impurities can create  false-positives when attempting to detect Majoranas with STS 
 measurements.
 
 + [Link](https://lnkd.in/dNnar6Us) to a nice and more detaild twitter thread about it.
@@ -14,7 +14,7 @@ measurements.
 
 # :woman_technologist: Code
 
-I am a big fan of Python! I use it for both my research (mostly Kwant) and studying Quantum Computing. I have the IBM Certification of Associate Developer - Quantum Computation using Qiskit v0.2X and participate in Quantum Hackathons. I have content on Qiskit and Pennylane.
+I am a big fan of Python! I have the IBM Certification of Associate Developer - Quantum Computation using Qiskit v0.2X and participate in Quantum Hackathons. I have content on Qiskit and Pennylane.
 
 ![](https://github-readme-stats.vercel.app/api?username=smendoncabruna&show_icons=true&theme=onedark)
 
